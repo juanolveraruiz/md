@@ -27,3 +27,7 @@ Italic and bold text, and that's it we don´t have more as far as i know. How ca
 ## Blockquotes
 
 ## Code
+
+<details>
+ <summary><h3>Extra tip</h3></summary>
+   This is some html but works fine with the markdown
